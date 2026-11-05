@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
