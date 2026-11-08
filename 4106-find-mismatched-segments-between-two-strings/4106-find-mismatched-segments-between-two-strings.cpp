@@ -9,14 +9,14 @@ public:
                    a+=s1[i];
                    b+=s2[i];
             }
-            else if(a.length()>0){
+            else if(!a.empty()){
                 ans.push_back({a,b});
                 a="";
                 b="";
             }
 
         }
-        
+
         if(a.length()>0){
             ans.push_back({a,b});
         }
