@@ -1,22 +1,9 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int count =0;
-        for(int i=0;i<s.length();i++){
-            if(s[i]=='a'){
-                count++;
-            }
-        }
+        string s1 = s;
+        sort(s1.begin(),s1.end());
 
-        for(int i=0;i<s.length();i++){
-            if(s[i]=='b' && count >0){
-                return false;
-            }
-
-            if(s[i]=='a'){
-                count--;
-            }
-        }
-        return true;
+       return s1==s;
     }
 };
