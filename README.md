@@ -33,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0005-longest-palindromic-substring) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
@@ -62,9 +63,18 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0005-longest-palindromic-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
