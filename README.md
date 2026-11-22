@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshavardhan2025/DSA_problem_sloving/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
